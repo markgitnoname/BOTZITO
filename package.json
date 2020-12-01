@@ -1,5 +1,5 @@
 {
-  "name": "BetaBOT",
+  "name": "ROBO",
   "version": "1.0.0",
   "description": "bot wa yang mudah untuk digunakan",
   "main": "index.js",
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/markgitnoname/BOTZITO"
+    "url": "git+https://github.com/markgitnoname/ROBO"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/markgitnoname/BOTZITO/issues"
+    "url": "https://github.com/markgitnoname/ROBO/issues"
   },
-  "homepage": "https://github.com/markgitnoname/BOTZITO#readme"
+  "homepage": "https://github.com/markgitnoname/ROBO#readme"
 }
